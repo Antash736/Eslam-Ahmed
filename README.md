@@ -27,9 +27,8 @@ I'm passionate about cybersecurity and ethical hacking, with hands-on experience
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](#) <!-- Replace with your actual LinkedIn URL -->
-- 🧑‍💻 [Portfolio](#) <!-- Replace with your portfolio if any -->
-- 📧 Email: your.email@example.com <!-- Replace with your email -->
+- 💼 [LinkedIn](#https://www.linkedin.com/in/eslam-ahmed-atef-992529333/) <!-- Replace with your actual LinkedIn URL -->
+- 📧 Email:  eslamahmedatef213@gmail.com<!-- Replace with your email -->
 
 ---
 
